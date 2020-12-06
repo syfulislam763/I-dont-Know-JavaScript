@@ -35,4 +35,4 @@ javascript obj methods,
 Object.create()
 ```
 **HTML code:**<br/>
-    <h1 style = "color:red">Hello world</h1>
+    <h1 style = "color:red;">Hello world</h1>
