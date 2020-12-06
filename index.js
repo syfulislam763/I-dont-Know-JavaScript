@@ -7,3 +7,6 @@ console.log(charCode)//abcde
 //2. String.fromCodePoint()
 let codePoint = String.fromCodePoint(65, 90)
 console.log(codePoint)//AZ
+
+
+//another methodes is comming soon
