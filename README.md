@@ -1,4 +1,4 @@
-# I-don-t-Know-JavaScript
+# I-don't-Know-JavaScript
 
-String Methods
+# String Methods
 1. String.prototype.toString()
