@@ -26,6 +26,8 @@ The String Object is used to represent and manipulate a sequence of characters. 
             A string created by using the specified sequence of code points
         Exceptions
             A RangeError is thrown if an invalid Unicode code point is given.
+     
+     3.String.prototype.split()
 
 **Test Type:**<br/>
 javascript obj methods,
