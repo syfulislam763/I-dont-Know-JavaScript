@@ -27,4 +27,8 @@ The String Object is used to represent and manipulate a sequence of characters. 
         Exceptions
             A RangeError is thrown if an invalid Unicode code point is given.
 
-
+** Test Type: **
+javascript obj methods,
+```javascript
+Object.create()
+```
