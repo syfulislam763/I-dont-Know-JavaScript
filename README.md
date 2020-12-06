@@ -1,5 +1,8 @@
 # I-don't-Know-JavaScript
-
+```javascript
+    const practice = () => {Knowledge.JavaScript++}
+    while(awake){practice();}
+```
 ### String
 The String Object is used to represent and manipulate a sequence of characters. (MDN),
 
