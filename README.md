@@ -1,7 +1,7 @@
 # I-don't-Know-JavaScript
 
-# String
-The String Object is used to represent and manipulate a sequence of characters. (MDN)
+### String
+The String Object is used to represent and manipulate a sequence of characters. (MDN),
 
 **String Properties**
     1. ### String.length
@@ -13,9 +13,9 @@ The String Object is used to represent and manipulate a sequence of characters. 
             String.formCharCode(num1, ..., numN)
         ```
         ### Parameters
-            num1, ..., numN
+            num1, ..., numN,
             A sequence of numbers that are UTF-16 code units.
-        Return Value
+        Return Value,
             A string of length N consisting of the N specified UTF-16 code units.
     
     2. ### String.formCodePoint()
