@@ -32,4 +32,7 @@ The String Object is used to represent and manipulate a sequence of characters. 
 **End**<br/>
 |no | question |
 |----|----------------|
-|1   | [what is the prototype chain?](#String)|
+|1   | [what is the prototype chain?](#)|
+
+<br/>
+**[Back to Top](#String)**
