@@ -29,10 +29,6 @@ The String Object is used to represent and manipulate a sequence of characters. 
      
      3.String.prototype.split()
 
-**Test Type:**<br/>
-javascript obj methods,
-```javascript
-Object.create()
-```
-**HTML code:**<br/>
-    <p style="color:green;">Hello world</p>
+**End**<br/>
+|no | question |
+|----| ---------|
