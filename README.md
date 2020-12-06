@@ -35,4 +35,4 @@ The String Object is used to represent and manipulate a sequence of characters. 
 |1   | [what is the prototype chain?](#)|
 
 
-** [Back to Top](#String) **
+**[Back to Top](#String)**
