@@ -31,4 +31,3 @@ The String Object is used to represent and manipulate a sequence of characters. 
 
 **End**<br/>
 |no | question |
-|----| ---------|
