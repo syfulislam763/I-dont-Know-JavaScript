@@ -3,16 +3,16 @@
 ### String
 The String Object is used to represent and manipulate a sequence of characters. (MDN),
 
-**String Properties**
+### String Properties:
     1. ### String.length
 
-** String Methods **
-    1. ### String.formCharCode()
+### String Methods:
+    1. String.formCharCode()
         Syntax
         ```javascript
             String.formCharCode(num1, ..., numN)
         ```
-        ### Parameters
+        Parameters
             num1, ..., numN,
             A sequence of numbers that are UTF-16 code units.
         Return Value,
