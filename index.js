@@ -5,8 +5,6 @@ let charCode = String.fromCharCode(97, 98, 99, 100);
 console.log(charCode)//abcde
 
 //2. String.fromCodePoint()
-let codePoint = String.fromCodePoint(65, 90)
-console.log(codePoint)//AZ
+let codePoint = String.fromCodePoint(65, 90, 97, 98)
+console.log(codePoint)//AZab
 
-
-//another methodes is comming soon
