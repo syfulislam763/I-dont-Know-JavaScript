@@ -30,7 +30,11 @@ The String Object is used to represent and manipulate a sequence of characters. 
         Exceptions
             A RangeError is thrown if an invalid Unicode code point is given.
      
-     3.String.prototype.split()
+     3. String.prototype.charAt()
+        Syntax
+            let character = str.charAt(index)
+        Description
+            Characters in a string are indexed from left to right.The index of the first character is 0 and the index of the last character is str.length - 1. if the index you supply is out of this range javascript returns an empty string and if no index is provided to charAt() the default is 0.
 
 **End**<br/>
 |no | question |
@@ -39,3 +43,4 @@ The String Object is used to represent and manipulate a sequence of characters. 
 
 
 **[Back to Top](#String)**
+
